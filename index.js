@@ -7,3 +7,7 @@ Rebase
   rebase c1
   rebase c2
   rebase c3
+
+  amend
+    1
+    2
